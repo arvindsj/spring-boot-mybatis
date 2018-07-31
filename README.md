@@ -1,1 +1,1 @@
-# spring-boot-mybatis
+# Spring Boot Mybatis Mysql Example
